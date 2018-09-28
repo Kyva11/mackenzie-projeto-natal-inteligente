@@ -1,0 +1,103 @@
+~~~~~~~~~~~~  HOLY (Acerto critico e Maestria)  ~~~~~~~~~~~~
+
+Capa -> MEIO (370)
+Angra do Falcão
+Tol Dagor
+
+Pulso -> OK (370)  Munhequeiras do Pesquisador Ensaguentado
+
+Mãos -> OK (360)
+
+Cintura -> NADA (370)
+Santuário da Tempestade
+
+Pernas -> MEIO (355)
+Angra do Falcão
+Repouso do Rei
+
+Pés -> OK (375)
+
+Dedo 1 -> MEIO (355)
+Cerco de Boralus
+Santuário da Tempesdade
+Templo de Sethraliss
+
+Dedo 2 -> NADA (355)
+Cerco de Boralus
+Santuário da Tempesdade
+Templo de Sethraliss
+
+
+Berloque -> OK (370)
+
+Berloque -> (355)
+Atal`Dazar
+Mansão Capelo
+Santuário da Tempesdade
+Templo de Sethraliss
+
+Mão 1 -> MEIO (385)
+A Megamina
+
+~~~~~~~~~~~~  DISCIPLINE (Aceleração e Acerto Critico)  ~~~~~~~~~~~~
+
+Capa -> OK (370)
+
+Pulso -> NADA (370)
+A Megamina
+Mansão Capelo
+
+Mãos -> NADA (345)
+A Terra Podre
+
+Cintura -> OK (370)
+
+Pernas -> MEIO (355)
+Cerco de Boralus
+Tol Dagor
+
+Pés -> NADA (375)
+Repouso do Rei
+
+Dedo 1 -> MEIO (355)
+Atal`Dazar
+Mansão Capelo
+Repouso do Rei
+
+Dedo 2 -> OK (355)
+Atal`Dazar
+Mansão Capelo
+Repouso do Rei
+
+Berloque -> OK (370)
+
+Berloque -> (355)
+Atal`Dazar
+Mansão Capelo
+Templo de Sethraliss
+Tol Dagor
+
+Mão 1 -> MEIO (385)
+Repouso do Rei
+Templo de Sethraliss
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~ DUNGEONS ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+DUNGEONS:
+
+Atal`Dazar -> 6 (3H & 3D)
+Mansão Capelo -> 5 (1H & 4D)
+Repouso do Rei -> 5 (1H & 4D)
+Templo de Sethraliss -> 5 (3H & 2D)                        
+Cerco de Boralus -> 3 (2H & 1D)                            
+Santuário da Tempesdade -> 4 (4H)
+Angra do Falcão -> 3 (3H)
+Tol`Dagor -> 3 (1H & 2D)
+A Megamina -> 2 (1H & 1D)
+A Terra Podre -> 1 (1D)
+
+
+
+
+
